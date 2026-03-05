@@ -1,0 +1,14 @@
+config.py
+/core/*
+cosxlserver.py
+custom_pipeline.py
+Dockerfile
+entrypoint.sh
+mobile_sam
+nginx.conf
+outputs
+__pycache__
+run_server.py
+/saicinpainting/*
+/server/*
+/utils/*
